@@ -1,6 +1,4 @@
 ### Hi there 👋
-I’m currently working on getting the pandaPi board running on a Prusa MK2x
-<img src="https://raw.githubusercontent.com/Moorviper/doc_test/master/imges/src/PandaPiV2.png" alt="alt text" width="50%" height="50%">
 
 
 
